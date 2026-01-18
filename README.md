@@ -18,6 +18,7 @@ First we create a simple 2D concept and use the amazing capabilities of NX Anima
 Now we are ready to proceed with the design
 
 <img width="1173" height="692" alt="image" src="https://github.com/mgrzb451/Project-Robotic_Gripper0/blob/main/assets/design0.jpg" />
+<img width="1248" height="832" alt="image" src="https://github.com/mgrzb451/Project-Robotic_Gripper0/blob/main/assets/3D_render.jpg" />
 <img width="840" height="614" alt="image" src="https://github.com/mgrzb451/Project-Robotic_Gripper0/blob/main/assets/act0.gif" />
 <img width="1378" height="582" alt="image" src="https://github.com/mgrzb451/Project-Robotic_Gripper0/blob/main/assets/exp0.gif" />
 
