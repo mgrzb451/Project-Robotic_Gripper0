@@ -37,7 +37,7 @@ We can use Simcenter 3D Motion Simulation to check our manual analysis and also 
 <img width="1023" height="683" alt="image" src="https://github.com/mgrzb451/Project-Robotic_Gripper0/blob/main/assets/motion_sim0.jpg" />
 
 ### Motor Torque
-That's right! The manual analysis assumed the design was "flat" in the simulation the force is applied in the center of the Contact Pad resulting in a moment along the Z axis **as well as the X axis**!
+That's right! The manual analysis assumed the design was "flat". Whereas in the simulation the force is applied in the center of the Contact Pad resulting in a moment along the Z axis **as well as the X axis**!
 
 <img width="868" height="448" alt="image" src="https://github.com/mgrzb451/Project-Robotic_Gripper0/blob/main/assets/req_motor_T.jpg" />
 
